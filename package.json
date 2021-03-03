@@ -1,5 +1,5 @@
 {
-  "name": "sparqljs",
+  "name": "@triply/sparqljs",
   "version": "3.4.0",
   "description": "A parser for the SPARQL query language",
   "author": "Ruben Verborgh <ruben.verborgh@gmail.com>",
